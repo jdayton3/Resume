@@ -1,6 +1,9 @@
 baseurl: "/Resume" # The subpath of your site. Use "" if you're hosting a blog at the root level.
 url: "http://localhost:4000/resumecards/" # the base hostname & protocol for your site
 
+# Google services
+google_analytics: "UA-84872440-2"
+
 exclude:
   - "README.md"
   - "CHANGELOG.md"
