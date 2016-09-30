@@ -1,7 +1,8 @@
-# This is a fork of [this repo](http://github.com/ellekasai/resumecard/fork)
+# This is a fork of [this repo](https://github.com/ellekasai/resumecards)
 
 ## Following is the original README.
 
+------------------------------------------------------------------------
 
 Unfortunately, this project is **no longer maintained**.
 
