@@ -1,4 +1,4 @@
-# This is a fork of [this repo]((http://github.com/ellekasai/resumecard/fork)
+# This is a fork of [this repo](http://github.com/ellekasai/resumecard/fork)
 
 ## Following is the original README.
 
