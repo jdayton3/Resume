@@ -68,7 +68,6 @@
     <script src="{{ "/javascripts/jquery.min.js" | prepend:site.baseurl }}"></script>
     <script src="{{ "/javascripts/bootstrap.min.js" | prepend:site.baseurl }}"></script>
     <script src="{{ "/javascripts/resumecards.js" | prepend:site.baseurl }}"></script>
-    {% include scripts.html %}
       <nav class="navbar navbar-default hidden-print hidden-xs" role="navigation">
         <div class="resume-nav">
           <span>Built with <a href="https://github.com/ellekasai/resumecards" target="_blank">ResumeCards</a><span class="hidden-sm">, a Markdown based resume generator</span></span>.&nbsp;&nbsp;
@@ -92,6 +91,7 @@
         </div>
       </nav>
     {% if jekyll.environment == 'production' %}
+      <!--Google Analytics-->
       {% include analytics.html %}
     {% endif %}
   </body>
